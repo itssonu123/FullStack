@@ -1,0 +1,9 @@
+ .back{
+    border: 1px solid black;
+  margin-right: 1030px;
+  
+    font-size: 30px;
+ }
+.li  tr td {
+    border: 1px solid black;
+}
