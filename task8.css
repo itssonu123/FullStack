@@ -1,0 +1,16 @@
+.back{
+  margin-top: 40px;
+  margin-left: 30%;
+}
+.table  {
+    border:  3px solid black;
+ border-collapse: collapse;
+ font-size: 50px;
+}
+.table th {
+    border: 3px solid black;
+}
+.table td{
+    border: 3px solid black;
+
+}
