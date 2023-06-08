@@ -1,0 +1,72 @@
+body {
+    background-image: url("https://149695847.v2.pressablecdn.com/wp-content/uploads/2019/07/image_rec_lib_banner.jpg");
+    background-repeat: no-repeat;
+    width: 100%;
+    height:100vh;
+    background-size: 100% 100%;
+  }
+  .st {
+    height: 75px;
+    padding: 15px;
+  }
+  .ul {
+    font-size: 30px;
+    display: flex;
+    gap: 170px;
+    margin-left: 80px;
+    margin-top: 20px;
+    list-style: none;
+  }
+  ul li a:hover {
+    background-color: rgb(0, 2, 2);
+  }
+
+  .atoz {
+    padding-left: 35%;
+    padding-top: 30px;
+    font-size: 40px;
+    text-shadow: 2px 5px 9px rgb(227, 154, 154) ;
+    color: aliceblue;
+    margin: 0px;
+    
+  }
+  .a .ul li {
+    text-decoration: none;
+    border-radius: 15px;
+    border: solid royalblue;
+    border-radius: 10px;
+    position: static;
+  }
+  .ul li a {
+    color: aliceblue;
+    text-decoration: none;
+    border-radius: 8px;
+    background-color: rgb(47, 0, 189);
+  }
+  .inpute {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: aliceblue;
+  }
+  .search {
+    position: relative;
+  }
+  .search input {
+    width: 260px;
+    height: 35px;
+    border: inset;
+    border-radius: 50px;
+    border-color: aquamarine;
+    font-size: 20px;
+  }
+  .search button {
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    padding: 10px;
+    border-radius: 10px;
+    transform: translateY(-50%);
+    background-color: aliceblue;
+  }
+  
